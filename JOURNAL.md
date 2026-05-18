@@ -42,7 +42,7 @@ Calculated rough estimates for:
 - Battery positioning
 
 ![design sketch](images/schem1.jpeg)
-![design sketch](images/schem2.jpeg)
+![design sketch](images/shem2.jpeg)
 
 **Total time spent: 4 hours**
 
@@ -122,6 +122,6 @@ cuts accordingly.
 Currently waiting for components to arrive before beginning electronics
 integration and motor mounting.
 
-![structure progress](images/structure-progress.jpg)
+
 
 **Total time spent: 4.5 hours**

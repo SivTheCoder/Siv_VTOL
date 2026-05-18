@@ -1,7 +1,7 @@
 ---
-title: "My VTOL Fighter Jet"
-author: "Sivansh Gupta"
-description: "An RC-controlled fighter jet prototype with VTOL capabilities currently under construction, with plans for FPV integration and advanced flight systems."
+Title: "My VTOL Fighter Jet"
+Author: "Sivansh Gupta"
+Description: "An RC-controlled fighter jet prototype with VTOL capabilities currently under construction, with plans for FPV integration and advanced flight systems."
 created_at: "2026-05-18"
 ---
 
@@ -16,6 +16,12 @@ thrust vectoring and lift motors work together during takeoff and
 landing. (NGL the theory is too complicated but the jist of it is that you just need a brain like stm32 or teensy 4 to do calculations fast and keep the craft upright)
 
 Created rough sketches of the aircraft body and propulsion layout.
+
+(All pics are frome yt vids I saw about VTOL while researching and was inspired by)
+
+![inspiration](images/insp1.png)
+![inspiration](images/insp2.png)
+![inspiration](images/insp3.png)
 
 **Total time spent: 3 hours**
 
@@ -35,7 +41,8 @@ Calculated rough estimates for:
 - Motor placement
 - Battery positioning
 
-![design sketch](images/design-sketch.png)
+![design sketch](images/schem1.jpeg)
+![design sketch](images/schem2.jpeg)
 
 **Total time spent: 4 hours**
 
@@ -56,6 +63,8 @@ would generate enough lift for VTOL operations.
 
 Prepared a preliminary parts list and checked compatibility between
 components.
+
+![Foamboard](images/fb1.jpeg)
 
 **Total time spent: 2.5 hours**
 
@@ -80,7 +89,7 @@ Still need to cut and shape:
 Some cuts were uneven initially, so a few sections had to be redone for
 better symmetry. (Anyways I am prototyping right now, so a little margin for error is acceptable for me)
 
-![foam cutting](images/foam-cutting.jpg)
+![foam cutting](images/foamcut.png)
 
 **Total time spent: 5 hours**
 
@@ -96,6 +105,8 @@ Ordered:
 
 Still deciding on the final flight controller, EC's, LiPo Battery and FPV system (probably a later update, but need to consider it right now so there is no compatibil;ity issues) since I
 want the aircraft to support future upgrades and autonomous features (aiming for the sky, you WILL land upon the stars ;D)
+
+![cart](images/fsi6X.png)
 
 **Total time spent: 2 hours**
 

@@ -122,6 +122,27 @@ cuts accordingly.
 Currently waiting for components to arrive before beginning electronics
 integration and motor mounting.
 
+Also started writing the C++ code for ESP32 to debug lateron.
 
+![esp32code](images/c.png)
 
 **Total time spent: 4.5 hours**
+
+# May 21: Still waiting for the parts I ordered...... (Delays are unbearable :C )
+
+Started experimenting with MPU 9250, Oled and ESP32 for data output for easier debugging. 
+Later on ESP32 will be replaced by STM32 or Teensy 4.0. Since ESP32 can't handle and process
+the VTOL calculations fast enough. 
+
+Still deciding on my flight controller, as there seems to be a shortage of them in India.
+Resellers are selling them for 4x the MRP D: .
+
+Parts are expected to come by day after tmwr.
+Today I mostly spent writing the code for ESP32 and Python implemeentation of that code to
+create the visualization which is kinda cool and suprisingly informational, as now i know 
+my MPU has a dead zone. Also capturing the data recorded by MPU in a csv file.
+
+![visualization](images/cd1.jpeg)
+![python_code](images/py.png)
+
+**Total time spent: 4 hours**
